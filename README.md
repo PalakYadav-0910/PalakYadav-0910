@@ -1,6 +1,6 @@
-👋 Hello! Welcome to My GitHub Profile
+# 👋 Hello! Welcome to My GitHub Profile
 
-🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 I am a QA Automation Tester with 3 years of experience in:
 
@@ -11,7 +11,7 @@ I enjoy solving complex problems, improving application quality, and creating ef
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-💻 My Skills
+### 💻 My Skills
 Languages & Tools:
 
 Programming: Java, Python, C#
@@ -23,7 +23,7 @@ Domains Worked On: E-commerce, Banking, and Web Applications.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📈 My GitHub Stats
+### 📈 My GitHub Stats
 
 📂 Projects: Check out my projects showcasing automation scripts, frameworks, and tools I’ve built for testing.
 
@@ -33,7 +33,7 @@ Domains Worked On: E-commerce, Banking, and Web Applications.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📂 Featured Projects
+### 📂 Featured Projects
 
 Here are some key repositories:
 
@@ -45,7 +45,7 @@ Custom Reporting Tool: Generates detailed HTML reports for test results.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🌱 Currently Learning
+### 🌱 Currently Learning
 
 Advanced CI/CD techniques with Jenkins and Azure DevOps
 Exploring Cypress for frontend automation.
@@ -53,9 +53,9 @@ Diving deeper into performance testing tools like JMeter.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📫 Let's Connect!
+### 📫 Let's Connect!
 
 LinkedIn: Your LinkedIn URL
 
 
-💡 "Quality is not an act, it is a habit." — Aristotle
+### 💡 "Quality is not an act, it is a habit." — Aristotle
