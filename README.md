@@ -1,5 +1,7 @@
 👋 Hello! Welcome to My GitHub Profile
+
 🧑‍💻 About Me
+
 I am a QA Automation Tester with 3 years of experience in:
 
 Manual & Automation Testing of web applications.
@@ -22,22 +24,29 @@ Domains Worked On: E-commerce, Banking, and Web Applications.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📈 My GitHub Stats
+
 📂 Projects: Check out my projects showcasing automation scripts, frameworks, and tools I’ve built for testing.
+
 ⭐ Interests: Collaborating on open-source projects, improving code quality, and learning new testing tools.
+
 📊 Contributions: Actively contributing to repositories related to QA, testing tools, and frameworks.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📂 Featured Projects
+
 Here are some key repositories:
 
 Automation Framework Template: A ready-to-use Selenium and TestNG-based framework with reporting.
+
 API Testing Suite: Collection of Rest Assured-based API testing scripts.
+
 Custom Reporting Tool: Generates detailed HTML reports for test results.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🌱 Currently Learning
+
 Advanced CI/CD techniques with Jenkins and Azure DevOps
 Exploring Cypress for frontend automation.
 Diving deeper into performance testing tools like JMeter.
@@ -45,6 +54,7 @@ Diving deeper into performance testing tools like JMeter.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📫 Let's Connect!
+
 LinkedIn: Your LinkedIn URL
 
 
