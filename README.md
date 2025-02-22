@@ -54,7 +54,7 @@ Diving deeper into performance testing tools like JMeter.
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/palak-yadav-633271272/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/palak-yadav-633271272/)
 
 ## 🛠 Languages and Tools  
 
