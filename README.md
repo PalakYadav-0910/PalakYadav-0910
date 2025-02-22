@@ -14,6 +14,9 @@ I enjoy solving complex problems, improving application quality, and creating ef
 ### 💻 My Skills
 Languages & Tools:
 
+![image](https://github.com/user-attachments/assets/f99ba5e7-5f68-469a-baab-b95316fc1004)
+
+
 Programming: Java, Python, C#
 Testing Frameworks: Selenium, TestNG, Cucumber, Rest Assured
 Tools: Postman, Jenkins, Git, Maven, Azure DevOps
@@ -58,6 +61,4 @@ Diving deeper into performance testing tools like JMeter.
 LinkedIn: Your LinkedIn URL
 
 
-
-https://aws.amazon.com/
 ### 💡 "Quality is not an act, it is a habit." — Aristotle
