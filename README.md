@@ -56,11 +56,6 @@ Diving deeper into performance testing tools like JMeter.
 
 LinkedIn: Your LinkedIn URL
 
-
-Palak Yadav <sy8220718@gmail.com>
-8:28 PM (0 minutes ago)
-to me
-
 ## 🛠 Languages and Tools  
 
   
